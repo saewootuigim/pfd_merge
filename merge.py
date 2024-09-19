@@ -1,4 +1,4 @@
-from PyPDF2 import PdfWriter
+from pypdf import PdfWriter
 from pathlib import Path
 import os
 
